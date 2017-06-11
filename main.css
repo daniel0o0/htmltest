@@ -1,0 +1,10 @@
+p{
+	/* comments */
+	color: blue;
+	font-family: helvetica;
+	font-size: 2em;
+	font-weight: bold;
+
+	/* short form */
+	/*font: bold 2em helvetica;*/
+}
